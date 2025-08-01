@@ -8,7 +8,7 @@ It predicts whether irrigation is needed based on sensor data like temperature a
 
 
 # Smart Irrigation – Week 2
-Date: 23 July 2025  
+Date: 25 July 2025  
 
 - Preprocessed dataset and removed unnecessary columns.  
 - Applied MinMaxScaler for scaling sensor data.  
